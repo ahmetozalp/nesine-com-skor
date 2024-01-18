@@ -1,0 +1,24 @@
+{
+    "dotenv.enableAutocloaking": true,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": "trailing",
+    "editor.rulers": [120],
+    "editor.tabSize": 2,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+    ],
+    "files.encoding": "utf8",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "peacock.color": "#3399cc",
+    "search.exclude": {
+      ".cache/**": true,
+      "build/**": true,
+      "node_modules/**": true,
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
